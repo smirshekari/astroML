@@ -1,4 +1,4 @@
-"""
+""" 
 Ball Tree Example
 -----------------
 Figure 2.5.
